@@ -1,0 +1,3 @@
+"""
+StrategicIQ Analytics Library
+"""
